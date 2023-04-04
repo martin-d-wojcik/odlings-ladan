@@ -13,6 +13,27 @@
   }
 }
 
+@media (min-width: 1200px) {
+  .container-plants{
+      max-width: 970px;
+      background-color: #8d7010;   
+      display: flex;
+      flex-direction: column;
+      align-items: center; 
+  }
+}
+
+.Header-div {
+  background-color: #178826;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Plants-body {
+  background-color:  sienna
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
